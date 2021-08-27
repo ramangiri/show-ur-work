@@ -1,0 +1,10 @@
+{
+    "MONGO_URI":"mongodb+srv://driwwwle:fgs0PRVZPIjjUZ9L@cluster0.acx9o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "JWT_SECRET": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+    "GITHUB_API_CLIENT_ID": "2f720fa40e11bc9761fe",
+    "GITHUB_API_CLIENT_SECRET": "77bedcc3b6cd0accd03454c17ba2c8343df0d00b",
+    "CLOUDINARY_CLOUD_NAME":"dvrk4scij",
+    "CLOUDINARY_API_KEY":  "719347926828478",
+    "CLOUDINARY_API_SECRET": "jDYQQiQOHrSpxCUfagymzCMGTH0"
+  }
+  
